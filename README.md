@@ -12,13 +12,13 @@ The overall process is an 3 step process :
 
 # To Run this Application you need to set up your environment this way -
 
-1. Install python-3 \
-2. Install openCV \
+1. Install python-3 
+2. Install openCV 
 3. Download cascade files  and put into openCV folder.
 
 # To Build this Application run this file sequentially -
 
-1. datasetCreator.py  \
-2. trainner.py \
+1. datasetCreator.py  
+2. trainner.py 
 3. detector.py 
 
