@@ -22,3 +22,6 @@ The overall process is an 3 step process :
 2. trainner.py 
 3. detector.py 
 
+
+See Demo vide on Youtube : https://youtu.be/zL9TvbQl8f8 
+
