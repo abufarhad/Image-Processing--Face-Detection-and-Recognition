@@ -23,5 +23,5 @@ The overall process is an 3 step process :
 3. detector.py 
 
 
-See Demo vide on Youtube : https://youtu.be/zL9TvbQl8f8 
+See demo video of this project on Youtube:  : https://youtu.be/zL9TvbQl8f8 
 
