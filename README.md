@@ -1,7 +1,7 @@
 # Real Time Face Detection and Recognition .
 In this project this software can detect and Recognize a Human Face in Real Time. 
 
-The overall process is an 3 step process : 
+The overall process is 3 step  : 
 
 1. Data collection that means take image using camera.You can see the code here datasetCreator.py  
 
